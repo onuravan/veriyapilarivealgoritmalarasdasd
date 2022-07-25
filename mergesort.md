@@ -26,16 +26,11 @@ Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
 
 ### Big O Notation Gösterimi
 
-> Worst case   : O(n*logn)
-> Average case : O(n*logn)
-> Best case    : O(n*logn)
->
+<blockquote> Worst case   : O(n*logn)
+Average case : O(n*logn)
+Best case    : O(n*logn) </blockquote>
 
-
-
-
-
-
+ 
 
 
 ### Patika
